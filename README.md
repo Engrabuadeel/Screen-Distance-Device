@@ -20,7 +20,8 @@ An Arduino-based ergonomic desktop device that actively monitors your seating po
 
 ## 🔌 Wiring Schematic
 
-![Uploading CircuitDiag.png…]()
+<img width="1277" height="687" alt="CircuitDiag" src="https://github.com/user-attachments/assets/0941942e-0e83-44c3-b006-cf8a4191eecf" />
+
 
 
 | Component | Pin Name | Arduino Pin |
