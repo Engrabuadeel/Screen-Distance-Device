@@ -1,9 +1,7 @@
-<img width="1204" height="1600" alt="Image" src="https://github.com/user-attachments/assets/04c3e7f4-aeff-4fd7-bcc5-3434aba19c2b" />
+
 # Screen Distance Device
 
 An Arduino-based ergonomic desktop device that actively monitors your seating posture to protect your eyes and spine. Using an ultrasonic sensor, it tracks your real-time distance from the laptop screen. If you lean in too close (under the 40 cm safety threshold), a piezo buzzer triggers an audio alarm to remind you to sit back, while a live distance feed is displayed on an OLED screen.
-
-<img width="1204" height="1600" alt="Image" src="https://github.com/user-attachments/assets/e652d2a3-b04b-4ff7-9458-8a435125256a" />
 
 
 ## 🚀 Features
